@@ -6,5 +6,6 @@
                  [net.java.dev.jogl/jogl "1.1.1a"]]
   :native-dependencies [[net.java.dev.jogl/jogl-windows-i586 "2.4.2"]]
   :source-path "src/main/clojure/"
+  :resources-path "src/main/resources/"
   :jvm-opts ["-Xmx1g" "-server"])
 
