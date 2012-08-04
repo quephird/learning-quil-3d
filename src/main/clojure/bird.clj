@@ -72,11 +72,3 @@
   :size [screen-w screen-h]
   :draw draw
   :renderer :opengl)
-
-;
-;void draw(){
-;
-;
-;}
-;
-;
